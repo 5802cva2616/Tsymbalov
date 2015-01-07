@@ -1,0 +1,26 @@
+D:\C# projects\TentCreator\TentCreator\bin\Debug\TentCreator.dll
+D:\C# projects\TentCreator\TentCreator\bin\Debug\TentCreator.pdb
+D:\C# projects\TentCreator\TentCreator\bin\Debug\TentCreator.tlb
+D:\C# projects\TentCreator\TentCreator\obj\Debug\TentCreator.Properties.Resources.resources
+D:\C# projects\TentCreator\TentCreator\obj\Debug\TentCreator.TentCreatorWindow.resources
+D:\C# projects\TentCreator\TentCreator\obj\Debug\TentCreator.csproj.GenerateResource.Cache
+D:\C# projects\TentCreator\TentCreator\obj\Debug\TentCreator.dll
+D:\C# projects\TentCreator\TentCreator\obj\Debug\TentCreator.pdb
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\obj\Debug\TentCreator.Properties.Resources.resources
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\obj\Debug\TentCreator.TentCreatorWindow.resources
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\obj\Debug\TentCreator.csproj.GenerateResource.Cache
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\obj\Debug\TentCreator.dll
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\obj\Debug\TentCreator.pdb
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\bin\Debug\TentCreator.dll
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\bin\Debug\TentCreator.pdb
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\bin\Debug\TentCreator.tlb
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\obj\Debug\TentCreator.csprojResolveAssemblyReference.cache
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\obj\Debug\TentCreator.Properties.Resources.resources
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\obj\Debug\TentCreator.TentCreatorWindow.resources
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\obj\Debug\TentCreator.csproj.GenerateResource.Cache
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\obj\Debug\TentCreator.dll
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\obj\Debug\TentCreator.pdb
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\bin\Debug\TentCreator.dll
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\bin\Debug\TentCreator.pdb
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\TentCreator\bin\Debug\TentCreator.tlb
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\TentCreator\obj\Debug\TentCreator.csprojResolveAssemblyReference.cache

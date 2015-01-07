@@ -1,0 +1,18 @@
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\bin\Debug\TentCreator.dll
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\bin\Debug\TentCreator.pdb
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\G@mer\Downloads\TentCreator\TentCreator\UnitTests\obj\Debug\UnitTests.pdb
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\bin\Debug\UnitTests.dll
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\bin\Debug\UnitTests.pdb
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\bin\Debug\nunit.framework.dll
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\bin\Debug\TentCreator.dll
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\bin\Debug\TentCreator.pdb
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\bin\Debug\nunit.framework.xml
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\obj\Debug\UnitTests.dll
+C:\CITRUS\Study\9 семестр\РСАПР\Курсачи\TentCreator\UnitTests\obj\Debug\UnitTests.pdb
